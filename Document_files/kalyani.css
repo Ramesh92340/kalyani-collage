@@ -1,0 +1,55 @@
+.heading{
+    color: red;
+}
+
+.hhh{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.bgimage{
+    background-image:url("university-of-kalyani-kalyani-universities-yav6yqj2h7.jpg"); 
+    background-size: 100%;
+    /* margin-top: 100px; */
+    height:162vh;
+    padding-top: 200px;
+}
+.black{
+    background-color: grey;
+    opacity: 0.5;
+    width: 600px;
+    height: 600px;
+    padding: 100px;
+    margin-left: 350px;
+    /* margin-top: 100px; */
+    
+}
+
+.heading2{
+    text-align: center;
+    color: white;
+}
+
+.redline{
+   
+    background-color: red; 
+    height: 2px;
+
+    
+}
+
+.logopo{
+    width: 125px;
+    
+    margin-left: 250px;
+}
+
+.buttonstyle{
+    text-align: center;
+    padding-top: 50px;
+    
+    color: red;
+    border-color: red ,solid, 2px;
+}

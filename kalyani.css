@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+.header{
+    display: flex;
+    background-color:  rgb(25, 2, 46);
+    justify-content: space-around;
+}
+.main_header{
+    margin-top: 20px;
+    color: #ffffff;
+    display: contents;
+}
+.main_header a:hover{
+    color: aqua;
+    display: inline;
+    background-color: black;
+
+}
+a{
+    padding: 10px;
+}
+.active{
+    background-color: rgb(181, 23, 112);
+    padding: 10px;
+}
+.heading{
+    color: red;
+    
+}
+
+.hhh{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.bgimage{
+    background-image:url("university-of-kalyani-kalyani-universities-yav6yqj2h7.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* margin-top: 100px; */
+    height:162vh;
+    padding-top: 320px;
+}
+.black{
+    background-color:black;
+    opacity: 0.5;
+    width: 300px;
+    height: 400px;
+    padding: 155px;
+    padding-top: 250px;
+    margin-left: 500px;
+    /* margin-top: 100px; */
+    text-align: center;
+    
+}
+
+.heading2{
+    text-align: center;
+    color: white;
+}
+
+.redline{
+   
+    background-color: red; 
+    height: 2px;
+
+    
+}
+
+.logopo{
+    width: 125px;
+    
+    
+}
+
+button{
+    
+    padding: 25px;
+    opacity: 1.0;
+    border-radius: 0px;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    color: rgb(255, 255, 255);
+    border-color: #ffffff;
+    margin:10px;
+    font-size: 20px;
+}
+
+
+.buttons:hover{
+    background-color: rgb(10, 12, 164);
+    font-size: 22px;
+    color: rgb(16, 225, 145);
+    
+}
+
+.markmawa{
+    color: black;
+}
